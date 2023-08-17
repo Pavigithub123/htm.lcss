@@ -1,0 +1,16 @@
+.portfolio{
+    background-color: blueviolet;
+    border:2px solid red;
+    animation-name: ani;
+    animation-duration: 3s;
+    
+}
+@keyframes ani{
+    form{background-color:blueviolet};
+    to{background-color: chartreuse;}
+}
+    <style>
+    .background-image{
+        background-image:url('./https://www.dreamstime.com/stock-photos-sunset-cloudy-sky-image17623633url');
+    }
+    </style>
